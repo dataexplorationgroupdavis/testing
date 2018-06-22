@@ -8,21 +8,21 @@
 * [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)  
  
 
-# STUDY MATERIAL
+# STUDY MATERIAL {.tabset}
 
 
-#### Everything about R
+#### R {-}
 
 * [RFundamentals - DSI](https://github.com/dsidavis/RFundamentals)  on Github
 
 
-#### Everything about Machine Learning
+#### Machine Learning {-}
 
 * [SurveyStatML - DSI](https://github.com/dsidavis/SurveyStatML) on Github
 * [DeepLearning](http://people.idsia.ch/~juergen/deeplearning.html) 
 
 
-#### Kaggle Kernel
+#### Kaggle Kernel {-}
 _Kaggle Competition_
 
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
@@ -33,13 +33,13 @@ _ML & Data Science with Python_
 * [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 
-#### Online Open Course
+#### Online Open Course {-}
 
 * [MITOpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 * [StandfordOpenCourse](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
 
 
-#### Julia 
+#### Julia {-}
 
 * [Julia Documentation](https://docs.julialang.org/en/stable/)
 
